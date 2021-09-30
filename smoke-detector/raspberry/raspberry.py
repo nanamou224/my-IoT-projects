@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 print(""" 
-    > Project name: DEMBoost DEMWatch
     > Description:  Micro-service (REST API) that exposes the state of the smoke sensor, i.e. its analog values taken
     > Usage:        in browser http://Raspberrypi_IP:80/ VS in terminal #curl -X GET  http://Raspberrypi_IP:80/ 
 
